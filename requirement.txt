@@ -1,0 +1,7 @@
+joblib
+pandas as pd
+streamlit as st
+numpy as np
+matplotlib.pyplot as plt
+seaborn as sns
+sci-kit learn
